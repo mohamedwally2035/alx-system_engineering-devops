@@ -1,1 +1,1 @@
-api_advanced
+api-advanced
